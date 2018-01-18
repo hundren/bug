@@ -16,7 +16,7 @@ function GetDateDiff(startDiffTime, endDiffTime) {    
             endTime = endDiffTime.replace(/\-/g, "/");  
 };  
 
-study:
+study:  
 http://www.rntools.co/  
 https://doc.react-china.org  
 https://docs.amcharts.com/3/javascriptstockchart
