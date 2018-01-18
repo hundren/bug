@@ -19,3 +19,4 @@ function GetDateDiff(startDiffTime, endDiffTime) {    
 study:
 http://www.rntools.co/
 https://doc.react-china.org
+https://docs.amcharts.com/3/javascriptstockchart
