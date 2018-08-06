@@ -16,6 +16,12 @@ function GetDateDiff(startDiffTime, endDiffTime) {    
             endTime = endDiffTime.replace(/\-/g, "/");  
 };  
 
+new后发生了什么？
+三步：
+var obj  = {};
+obj.__proto__ = Base.prototype;
+Base.call(obj);
+
 study:  
 http://www.rntools.co/  
 https://doc.react-china.org  
